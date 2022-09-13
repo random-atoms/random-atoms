@@ -14,6 +14,7 @@ Cheers!
 ### ToDo
 
 - Connect and enable Pixel 3 on development machine
+- Start with MSFT learning path + YouTube playlist
 
 ### Log
 
