@@ -11,10 +11,10 @@ Cheers!
 
 ## 2022-09-13 
 
-### ToDo
+### ToDo in next session
 
-- Connect and enable Pixel 3 on development machine
-- Start with MSFT learning path + YouTube playlist
+- Start with MSFT learning path - on this page https://docs.microsoft.com/en-us/training/modules/build-mobile-and-desktop-apps/3-create-a-maui-project-visual-studio
+- Watch YouTube playlist
 
 ### Log
 
@@ -24,5 +24,5 @@ Cheers!
 	- https://github.com/dotnet-presentations/dotnet-maui-workshop (forked this repo and cloned to ofc machine)
 	
 	
-- Did the steps to get my Pixel 3 ready
+- Did the steps to get my Pixel 3 ready and confirmed app launch 
 	- https://docs.microsoft.com/en-us/dotnet/maui/android/device/setup
